@@ -1,0 +1,58 @@
+{
+  "expo": {
+    "name": "PhumPhwng",
+    "description": "PhumPhwng - Next Door Market",
+    "slug": "phumphwng",
+    "scheme": "phumphwng",
+    "privacy": "unlisted",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.bootlegsoft.phumphwng"
+    },
+    "android": {
+      "package": "com.bootlegsoft.phumphwng",
+      "versionCode": 1,
+      "googleServicesFile": "./google-services.json"
+    },
+    "androidStatusBarColor": "#F20519",
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#F20519",
+      "permissions": []
+    },
+    "extra": {
+      "firebase": {
+        "apiKey": "AIzaSyBGNtBCgJjbPYNdkco99h67i0tZ5_I3Dy0",
+        "authDomain": "phumphwng-app.firebaseapp.com",
+        "databaseURL": "https://phumphwng-app.firebaseio.com",
+        "projectId": "phumphwng-app",
+        "storageBucket": "phumphwng-app.appspot.com",
+        "messagingSenderId": "616952215171",
+        "appId": "1:616952215171:web:6addbbdb3f1699a2a70db6",
+        "measurementId": "G-7QWPCN1YYM"
+      },
+      "facebook": {
+        "appId": "398797464123950"
+      }
+    }
+  }
+}

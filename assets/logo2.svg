@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 50 50"
+   version="1.1"
+   class="jsx-2263963463 artboard-inner"
+   style="width: 300px; height: 300px; max-height: 100%;"
+   id="svg15"
+   sodipodi:docname="logo2.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/robot/artiya4u/PhumPhwng/assets/logo-512.png"
+   inkscape:export-xdpi="983.03998"
+   inkscape:export-ydpi="983.03998">
+  <metadata
+     id="metadata21">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs19" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="8"
+     inkscape:cx="-6.927991"
+     inkscape:cy="18.390357"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g12" />
+  <g
+     transform="matrix(1.4285714,0,0,1.4285714,25,25)"
+     id="lockup4-icon">
+    <g
+       id="g12"
+       style="fill:#232323">
+      <g
+         transform="matrix(0.34313725,0,0,0.34313725,-17.5,-17.5)"
+         id="container">
+        <g
+           id="g4"
+           style="fill:#232323">
+          <polygon
+             points="1,1 1,101 101,101 101,1 "
+             id="polygon2"
+             style="vector-effect:non-scaling-stroke;fill:#f20519;fill-opacity:1" />
+        </g>
+      </g>
+      <g
+         transform="matrix(0.22222347,0,0,0.22222347,-12.117479,-6.1251618)"
+         id="icon">
+        <g
+           id="g9"
+           transform="matrix(1.284375,0,0,1.284375,-9.6907208,-36.655678)"
+           style="fill:#ffffff">
+          <path
+             d="M 34.328,35.384 H 6.585 a 1.5845,1.5845 0 1 1 0,-3.169 h 27.743 a 1.585,1.585 0 1 1 0,3.169 z m 0,14.304 H 15.363 a 1.585,1.585 0 1 1 0,-3.17 h 18.965 a 1.585,1.585 0 1 1 0,3.17 z m 0,14.303 H 24.141 a 1.585,1.585 0 1 1 0,-3.17 h 10.187 a 1.585,1.585 0 1 1 0,3.17 z M 68.716,76.284 C 54.224,76.284 42.432,64.493 42.432,50 42.432,35.507 54.223,23.716 68.716,23.716 83.209,23.716 95,35.507 95,50 95,64.493 83.209,76.284 68.716,76.284 Z m 0,-48.132 c -12.046,0 -21.847,9.801 -21.847,21.848 0,12.047 9.801,21.848 21.847,21.848 12.046,0 21.847,-9.801 21.847,-21.848 0,-12.047 -9.8,-21.848 -21.847,-21.848 z"
+             id="path7"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
