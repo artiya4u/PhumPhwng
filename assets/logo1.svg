@@ -14,9 +14,9 @@
    id="svg15"
    sodipodi:docname="logo1.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   inkscape:export-filename="/home/robot/artiya4u/PhumPhwng/assets/logo-1-512.png"
-   inkscape:export-xdpi="983.03998"
-   inkscape:export-ydpi="983.03998">
+   inkscape:export-filename="/home/robot/artiya4u/PhumPhwng/assets/logo-192.png"
+   inkscape:export-xdpi="368.64001"
+   inkscape:export-ydpi="368.64001">
   <metadata
      id="metadata21">
     <rdf:RDF>
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -45,7 +45,7 @@
      id="namedview17"
      showgrid="false"
      inkscape:zoom="13.350176"
-     inkscape:cx="19.741893"
+     inkscape:cx="19.442271"
      inkscape:cy="24.067532"
      inkscape:window-x="72"
      inkscape:window-y="27"
